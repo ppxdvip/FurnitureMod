@@ -1,6 +1,7 @@
 modLoader="javafml"
 loaderVersion="[43,)"
 license="MIT"
+issueTrackerURL=""
 
 [[mods]]
 modId="furnituremod"
